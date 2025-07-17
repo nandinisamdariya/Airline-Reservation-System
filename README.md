@@ -1,8 +1,9 @@
 ## 👩‍💻 Author
 
 **Nandini Samdariya**  
-🧑‍🎓 MCA Graduate | 💼 Aspiring Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/nandinisamdariya) | 💻 [Email](nandini.samdariya10@gmail.com)
+🧑‍🎓 MCA Graduate | 💼 Aspiring Data Analyst 
+📧 nandini.samdariya10@email.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/nandinisamdariya) 
 
 ---
 
